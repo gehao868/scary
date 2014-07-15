@@ -1,0 +1,432 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ScaryBugsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1144, 532}}";
+			sepNavSelRange = "{148, 0}";
+			sepNavVisRange = "{0, 472}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ScaryBugsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1440, 1261}}";
+			sepNavSelRange = "{265, 0}";
+			sepNavVisRange = "{3, 1892}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ScaryBugs */ = {
+		activeExec = 0;
+		executables = (
+			35EBBBDB12246326007C2ACE /* ScaryBugs */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* ScaryBugs_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 527}}";
+			sepNavSelRange = "{250, 0}";
+			sepNavVisRange = "{0, 324}";
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1144, 532}}";
+			sepNavSelRange = "{290, 46}";
+			sepNavVisRange = "{0, 452}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1265, 2418}}";
+			sepNavSelRange = "{2549, 0}";
+			sepNavVisRange = "{2271, 1123}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 35EBBBDB12246326007C2ACE /* ScaryBugs */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ScaryBugs */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ScaryBugs */,
+		);
+		codeSenseManager = 35EBBBED12246329007C2ACE /* Code sense */;
+		executables = (
+			35EBBBDB12246326007C2ACE /* ScaryBugs */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					733,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306176409;
+			PBXWorkspaceStateSaveDate = 306176409;
+		};
+		perUserProjectItems = {
+			35570A761225775000550844 = 35570A761225775000550844 /* PBXTextBookmark */;
+			35570A771225775000550844 = 35570A771225775000550844 /* PBXTextBookmark */;
+			35570A871225778100550844 = 35570A871225778100550844 /* PBXTextBookmark */;
+			35570AB912257B7700550844 = 35570AB912257B7700550844 /* PBXTextBookmark */;
+			35570AC1122580E300550844 = 35570AC1122580E300550844 /* PBXTextBookmark */;
+			35570AE41225908100550844 = 35570AE41225908100550844 /* PBXTextBookmark */;
+			35570AE51225908100550844 = 35570AE51225908100550844 /* PBXTextBookmark */;
+			35570AE61225908100550844 = 35570AE61225908100550844 /* PBXTextBookmark */;
+			35570AE71225908100550844 = 35570AE71225908100550844 /* PBXTextBookmark */;
+			35570AE81225908100550844 = 35570AE81225908100550844 /* PBXTextBookmark */;
+			35570AE91225908100550844 = 35570AE91225908100550844 /* PBXTextBookmark */;
+			35EBBC831224926C007C2ACE = 35EBBC831224926C007C2ACE /* PBXTextBookmark */;
+			35EBBC86122492B5007C2ACE = 35EBBC86122492B5007C2ACE /* PBXTextBookmark */;
+			35EBBCA012249ACE007C2ACE = 35EBBCA012249ACE007C2ACE /* PBXBookmark */;
+			35EBBCA212249ACE007C2ACE = 35EBBCA212249ACE007C2ACE /* PBXTextBookmark */;
+			35EBBCA712249B4A007C2ACE = 35EBBCA712249B4A007C2ACE /* PBXTextBookmark */;
+			35EBBCB512249EEC007C2ACE = 35EBBCB512249EEC007C2ACE /* PBXTextBookmark */;
+			35EBBCB612249EEC007C2ACE = 35EBBCB612249EEC007C2ACE /* PBXTextBookmark */;
+			35EBBCCB1224A7A0007C2ACE = 35EBBCCB1224A7A0007C2ACE /* PlistBookmark */;
+			35EBBD5E1224B551007C2ACE = 35EBBD5E1224B551007C2ACE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 35EBBBEC12246329007C2ACE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	35570A691225735700550844 /* ScaryBugDatabase.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 540}}";
+			sepNavSelRange = "{180, 0}";
+			sepNavVisRange = "{0, 304}";
+		};
+	};
+	35570A6A1225735700550844 /* ScaryBugDatabase.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1178, 1118}}";
+			sepNavSelRange = "{948, 0}";
+			sepNavVisRange = "{743, 689}";
+		};
+	};
+	35570A761225775000550844 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35EBBC1312246854007C2ACE /* ScaryBugData.h */;
+		name = "ScaryBugData.h: 11";
+		rLen = 0;
+		rLoc = 223;
+		rType = 0;
+		vrLen = 393;
+		vrLoc = 0;
+	};
+	35570A771225775000550844 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35EBBC1412246854007C2ACE /* ScaryBugData.m */;
+		name = "ScaryBugData.m: 26";
+		rLen = 0;
+		rLoc = 513;
+		rType = 0;
+		vrLen = 949;
+		vrLoc = 36;
+	};
+	35570A871225778100550844 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScaryBugsAppDelegate.m */;
+		name = "ScaryBugsAppDelegate.m: 12";
+		rLen = 0;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 1892;
+		vrLoc = 3;
+	};
+	35570AB912257B7700550844 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35570A6A1225735700550844 /* ScaryBugDatabase.m */;
+		name = "ScaryBugDatabase.m: 32";
+		rLen = 0;
+		rLoc = 948;
+		rType = 0;
+		vrLen = 1413;
+		vrLoc = 433;
+	};
+	35570AC1122580E300550844 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35EBBC5612247AA2007C2ACE /* EditBugViewController.h */;
+		name = "EditBugViewController.h: 32";
+		rLen = 0;
+		rLoc = 953;
+		rType = 0;
+		vrLen = 1048;
+		vrLoc = 0;
+	};
+	35570AE41225908100550844 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35EBBC5712247AA2007C2ACE /* EditBugViewController.m */;
+		name = "EditBugViewController.m: 127";
+		rLen = 0;
+		rLoc = 3863;
+		rType = 0;
+		vrLen = 1361;
+		vrLoc = 3506;
+	};
+	35570AE51225908100550844 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35570A691225735700550844 /* ScaryBugDatabase.h */;
+		name = "ScaryBugDatabase.h: 11";
+		rLen = 0;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	35570AE61225908100550844 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35EBBC1A12246A60007C2ACE /* ScaryBugDoc.h */;
+		name = "ScaryBugDoc.h: 29";
+		rLen = 0;
+		rLoc = 710;
+		rType = 0;
+		vrLen = 736;
+		vrLoc = 0;
+	};
+	35570AE71225908100550844 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35EBBC1B12246A60007C2ACE /* ScaryBugDoc.m */;
+		name = "ScaryBugDoc.m: 99";
+		rLen = 0;
+		rLoc = 2648;
+		rType = 0;
+		vrLen = 1048;
+		vrLoc = 2212;
+	};
+	35570AE81225908100550844 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 67";
+		rLen = 0;
+		rLoc = 1657;
+		rType = 0;
+		vrLen = 1151;
+		vrLoc = 4110;
+	};
+	35570AE91225908100550844 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 93";
+		rLen = 0;
+		rLoc = 2549;
+		rType = 0;
+		vrLen = 1299;
+		vrLoc = 2341;
+	};
+	35EBBBDB12246326007C2ACE /* ScaryBugs */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ScaryBugs;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	35EBBBEC12246329007C2ACE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	35EBBBED12246329007C2ACE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	35EBBC1312246854007C2ACE /* ScaryBugData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 545}}";
+			sepNavSelRange = "{223, 0}";
+			sepNavVisRange = "{0, 393}";
+		};
+	};
+	35EBBC1412246854007C2ACE /* ScaryBugData.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 598}}";
+			sepNavSelRange = "{513, 0}";
+			sepNavVisRange = "{36, 949}";
+		};
+	};
+	35EBBC1A12246A60007C2ACE /* ScaryBugDoc.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 540}}";
+			sepNavSelRange = "{710, 0}";
+			sepNavVisRange = "{0, 736}";
+		};
+	};
+	35EBBC1B12246A60007C2ACE /* ScaryBugDoc.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1013, 1989}}";
+			sepNavSelRange = "{2648, 0}";
+			sepNavVisRange = "{2212, 1048}";
+		};
+	};
+	35EBBC4E122479C2007C2ACE /* RateView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 2392}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1027}";
+		};
+	};
+	35EBBC5612247AA2007C2ACE /* EditBugViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 497}}";
+			sepNavSelRange = "{953, 0}";
+			sepNavVisRange = "{0, 1048}";
+		};
+	};
+	35EBBC5712247AA2007C2ACE /* EditBugViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 1950}}";
+			sepNavSelRange = "{3863, 0}";
+			sepNavVisRange = "{3506, 1361}";
+		};
+	};
+	35EBBC6712248480007C2ACE /* UIImageExtras.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 532}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 278}";
+		};
+	};
+	35EBBC6812248480007C2ACE /* UIImageExtras.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 884}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1256}";
+		};
+	};
+	35EBBC831224926C007C2ACE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ScaryBugsAppDelegate.h */;
+		name = "ScaryBugsAppDelegate.h: 8";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 472;
+		vrLoc = 0;
+	};
+	35EBBC86122492B5007C2ACE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 15";
+		rLen = 46;
+		rLoc = 290;
+		rType = 0;
+		vrLen = 452;
+		vrLoc = 0;
+	};
+	35EBBCA012249ACE007C2ACE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 35EBBC9B122499DA007C2ACE /* logo1.png */;
+	};
+	35EBBCA212249ACE007C2ACE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35EBBC6712248480007C2ACE /* UIImageExtras.h */;
+		name = "UIImageExtras.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 278;
+		vrLoc = 0;
+	};
+	35EBBCA712249B4A007C2ACE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35EBBC6812248480007C2ACE /* UIImageExtras.m */;
+		name = "UIImageExtras.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1256;
+		vrLoc = 0;
+	};
+	35EBBCB112249EAB007C2ACE /* DSActivityView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2084, 1716}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{794, 2246}";
+		};
+	};
+	35EBBCB512249EEC007C2ACE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35EBBC4E122479C2007C2ACE /* RateView.m */;
+		name = "RateView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1027;
+		vrLoc = 0;
+	};
+	35EBBCB612249EEC007C2ACE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 35EBBCB112249EAB007C2ACE /* DSActivityView.h */;
+		name = "DSActivityView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2246;
+		vrLoc = 794;
+	};
+	35EBBCCB1224A7A0007C2ACE /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ScaryBugs-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSMainNibFile,
+		);
+		name = "/Users/rwenderlich/Projects/Blog Posts/Posts/ScaryBugs/ScaryBugs/ScaryBugs-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	35EBBD5E1224B551007C2ACE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* ScaryBugs_Prefix.pch */;
+		name = "ScaryBugs_Prefix.pch: 11";
+		rLen = 0;
+		rLoc = 250;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 0;
+	};
+}
